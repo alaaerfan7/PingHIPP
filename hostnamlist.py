@@ -66,9 +66,9 @@ def ping(Assigncontainer2,Assigncontainer3,Assigncontainer4,host,host1,host2):
 
     return msg
 
-host = '172.24.0.3'   #editing the host with containers ips
-host1 = '172.25.0.2'  #editing the host with containers ips
-host2 = '172.25.0.3'
+host = '172.28.0.4'   #editing the host with containers ips
+host1 = '172.28.0.3'  #editing the host with containers ips
+host2 = '172.28.0.2'
 Assigncontainer2 = 'Assigncontainer2'
 Assigncontainer3 = 'Assigncontainer3'
 Assigncontainer4 = 'Assigncontainer4'
